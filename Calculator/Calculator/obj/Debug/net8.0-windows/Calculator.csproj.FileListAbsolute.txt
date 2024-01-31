@@ -1,0 +1,16 @@
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
