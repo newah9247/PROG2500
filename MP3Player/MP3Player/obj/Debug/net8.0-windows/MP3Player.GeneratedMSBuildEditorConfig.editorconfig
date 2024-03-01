@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MP3Player
-build_property.ProjectDir = C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\MP3Player\MP3Player\
+build_property.ProjectDir = C:\Users\foodl\Documents\GitHub\Lightsail-Laravel\PROG2500\MP3Player\MP3Player\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

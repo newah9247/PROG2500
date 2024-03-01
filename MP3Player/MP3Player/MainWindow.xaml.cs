@@ -58,13 +58,10 @@ namespace MP3Player
                 var file = TagLib.File.Create(currentFilePath);
                 txtTitle.Text = file.Tag.Title;
                 txtArtist.Text = file.Tag.Artists.Length > 0 ? file.Tag.Artists[0] : "";
+
+                // Set album art image
                 DisplayAlbumArt(file.Tag);
             }
-        }
-
-        private void volumeSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
-        {
-            mediaPlayer.Volume = volumeSlider.Value / 100.0;
         }
 
         private void DisplayAlbumArt(TagLib.Tag tag)
@@ -76,21 +73,37 @@ namespace MP3Player
                 {
                     var bitmapImage = new BitmapImage();
                     bitmapImage.BeginInit();
+                    bitmapImage.CacheOption = BitmapCacheOption.OnLoad; // Ensure the image is fully loaded before setting the source
                     bitmapImage.StreamSource = memoryStream;
                     bitmapImage.EndInit();
+                    bitmapImage.Freeze(); // Freeze the image to prevent it from being modified on another thread
                     albumArtImage.Source = bitmapImage;
                 }
             }
+            else
+            {
+                // If no album art found, set a default placeholder image
+                albumArtImage.Source = new BitmapImage(new Uri("pack://application:,,,/Resources/placeholder.jpg"));
+            }
+        }
+
+        private void volumeSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            mediaPlayer.Volume = volumeSlider.Value / 100.0;
         }
 
         private void btnSaveMetadata_Click(object sender, RoutedEventArgs e)
         {
             if (currentFilePath != "")
             {
-                var file = TagLib.File.Create(currentFilePath);
-                file.Tag.Title = txtTitle.Text;
-                file.Tag.Performers = new[] { txtArtist.Text };
-                file.Save();
+                mediaPlayer.Stop();
+
+                using (var file = TagLib.File.Create(currentFilePath))
+                {
+                    file.Tag.Title = txtTitle.Text;
+                    file.Tag.Performers = new[] { txtArtist.Text };
+                    file.Save();
+                }
             }
         }
     }

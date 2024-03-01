@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYDk/e5mBB81cM3bx4GStc18TxGRqvXfXHl2xrwpZAIVIemYUc6V/0xeQDDWCq8N/wO+xKdnlzJVt5BVgktrAg==",
+  "dgSpecHash": "oKvszrywZwyvpwrM/fwgJWqbG7glGzF7SsU6x1/hunmx71fJM8yY0hyPbtO2CHpxM+bNRkCRHgIbN0jsuD+TxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
+  "projectFilePath": "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\foodl\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
   ],

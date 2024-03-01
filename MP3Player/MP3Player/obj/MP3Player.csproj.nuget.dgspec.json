@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj": {}
+    "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj": {
+    "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
+        "projectUniqueName": "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
         "projectName": "MP3Player",
-        "projectPath": "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
+        "projectPath": "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\MP3Player.csproj",
         "packagesPath": "C:\\Users\\foodl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\foodl\\Documents\\GitHub\\Y2-S2-PROG2500\\MP3Player\\MP3Player\\obj\\",
+        "outputPath": "C:\\Users\\foodl\\Documents\\GitHub\\Lightsail-Laravel\\PROG2500\\MP3Player\\MP3Player\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\foodl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
