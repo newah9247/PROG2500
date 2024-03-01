@@ -1,0 +1,17 @@
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\bin\Debug\net8.0-windows\capstoneTest.exe
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\bin\Debug\net8.0-windows\capstoneTest.deps.json
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\bin\Debug\net8.0-windows\capstoneTest.runtimeconfig.json
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\bin\Debug\net8.0-windows\capstoneTest.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\bin\Debug\net8.0-windows\capstoneTest.pdb
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.Form1.resources
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.csproj.GenerateResource.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.AssemblyInfoInputs.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.AssemblyInfo.cs
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.csproj.CoreCompileInputs.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.sourcelink.json
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\refint\capstoneTest.dll
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.pdb
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\capstoneTest.genruntimeconfig.cache
+C:\Users\foodl\Documents\GitHub\Y2-S2-PROG2500\capstoneTest\capstoneTest\obj\Debug\net8.0-windows\ref\capstoneTest.dll

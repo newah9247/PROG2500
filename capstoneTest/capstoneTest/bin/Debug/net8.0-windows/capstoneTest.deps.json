@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "capstoneTest/1.0.0": {
+        "runtime": {
+          "capstoneTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capstoneTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
